@@ -52,7 +52,7 @@ Create an application from started codebase called Note Taker that can be used t
 ## Links
 
 - [GitHub Repository](https://github.com/hkhalfan1979/note-taker)
-- [Deployed Application](herkou link)
+- [Deployed Application](https://whispering-ocean-37947.herokuapp.com/)
 
 ---
 
@@ -65,6 +65,15 @@ Create an application from started codebase called Note Taker that can be used t
 
 ## Usage
 
+1. Open the website. (https://whispering-ocean-37947.herokuapp.com/)
+
+2. Click the Get Started button.
+
+3. Enter note title and description.
+
+4. Click the Save.
+
+5. You have an option to delete an entry.
 
 ---
 
